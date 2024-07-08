@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "version": "0.0.1",
+  "name": "Tripadvisor AI Review Responder",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["http://*/*", "https://*/*"]
+}
